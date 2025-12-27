@@ -1,0 +1,84 @@
+Authentication (Clerk)
+
+Sign up / Sign in
+Email verification
+Password reset
+Profile role selection (Buyer/Seller)
+Multi-profile support (switch between buyer/seller)
+
+Buyer Features
+
+Browse products (grid/list view)
+Search products
+Filter (category, price range, ratings)
+Sort (price, popularity, newest)
+Product details page
+Add to cart
+Wishlist/favorites
+Checkout process
+Product reviews & ratings
+
+Seller Features
+
+Seller dashboard (sales analytics)
+Add/edit/delete products
+Product management (inventory, pricing)
+Order management
+View customer orders
+Update order status
+Earnings/wallet
+Product reviews management
+
+Shopping Cart
+
+Add/remove items
+Update quantity
+Apply coupon codes
+View subtotal/total
+Save for later
+
+Payment Gateway Integration
+Stripe 
+
+Checkout Flow
+
+Shipping address
+Payment method selection
+Order summary
+Payment processing
+Order confirmation
+
+
+Chat Types
+
+Buyer ↔ Seller Chat
+Buyers can message sellers about products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
